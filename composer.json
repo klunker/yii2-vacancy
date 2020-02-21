@@ -1,6 +1,6 @@
 {
     "name": "klunker/yii2-vacancy",
-    "description": "Simple vacancy module. CRUD schema and control replies",
+    "description": "Vacancy is a simple job module for Yii2. This module use a CRUD ActiveRecords system.",
     "type": "yii2-extension",
     "keywords": ["yii2","extension"],
     "license": "MIT",
