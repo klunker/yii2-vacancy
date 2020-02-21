@@ -1,0 +1,21 @@
+{
+    "name": "klunker/yii2-vacancy",
+    "description": "Simple vacancy module. CRUD schema and control replies",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "klunker",
+            "email": "klunker.roox@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "klunker\\vacancy\\": ""
+        }
+    }
+}
