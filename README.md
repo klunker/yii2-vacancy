@@ -52,8 +52,8 @@ Usage
 -----
 Administration panel is available at yourdomain.com/pathtoadmin/vacancy
 
-Once the extension is installed, simply use it in your code by:
+Add a bootstrap panel for Vacancy module:
 
 ```php
-<?= \klunker\vacancy\SlideCardVacancy::widget(); ?>
+<?= \klunker\vacancy\PanelMenuVacancy::widget(); ?>
 ```
